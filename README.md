@@ -1,4 +1,4 @@
-# 🚀 GCP Artifact Docker Registry Migrate to AWS ECR 🚀
+# 🚀 GCP Artifact Docker Registry Migrate to AWS ECR 
 
 These command and steps used to migrate GCP Artifact Docker Registry Migrate to AWS ECR
 
